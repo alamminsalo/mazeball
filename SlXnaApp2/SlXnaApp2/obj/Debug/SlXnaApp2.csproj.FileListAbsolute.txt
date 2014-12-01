@@ -1,0 +1,42 @@
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.csprojResolveAssemblyReference.cache
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\App.g.cs
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\GamePage.g.cs
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\MainPage.g.cs
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\Levels.g.cs
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.g.resources
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Background.png
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2.dll
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2.pdb
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2Lib.dll
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2Lib.pdb
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.dll
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.pdb
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\AppManifest.xaml
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2.xap
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\XapCacheFile.xml
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\ball.xnb
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\hole.xnb
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\wall.xnb
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\font1.xnb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\ApplicationIcon.png
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Background.png
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2.dll
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2.pdb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\AppManifest.xaml
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2.xap
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2Lib.dll
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\SlXnaApp2Lib.pdb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.csprojResolveAssemblyReference.cache
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\App.g.cs
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\GamePage.g.cs
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\MainPage.g.cs
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\Levels.g.cs
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.g.resources
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.dll
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\SlXnaApp2.pdb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\obj\Debug\XapCacheFile.xml
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\ball.xnb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\hole.xnb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\wall.xnb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2\Bin\Debug\Content\font1.xnb

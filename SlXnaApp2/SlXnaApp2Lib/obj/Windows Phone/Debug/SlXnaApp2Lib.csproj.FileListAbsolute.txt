@@ -1,0 +1,19 @@
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\SlXnaApp2Lib.dll
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\SlXnaApp2Lib.pdb
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\SlXnaApp2Lib.dll
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\SlXnaApp2Lib.pdb
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\ball.xnb
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\hole.xnb
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\wall.xnb
+C:\Users\antti\Documents\Visual Studio 2012\Projects\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\font1.xnb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\ball.xnb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\hole.xnb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\wall.xnb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\Content\font1.xnb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\SlXnaApp2Lib.dll
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\bin\Windows Phone\Debug\SlXnaApp2Lib.pdb
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\SlXnaApp2Lib.csprojResolveAssemblyReference.cache
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\SlXnaApp2Lib.dll
+Z:\Storage\wp8\SlXnaApp2\SlXnaApp2\SlXnaApp2Lib\obj\Windows Phone\Debug\SlXnaApp2Lib.pdb
